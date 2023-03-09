@@ -1,6 +1,6 @@
 <div id="header" align="center">
-	<h1>Hi there, I'm Alexander</h1>
-	<h3>Frontend Developer from Minsk <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h3>
+	<h1>Hi there, I'm Alexander <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+	<h3>Frontend Developer from Minsk</h3>
 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
