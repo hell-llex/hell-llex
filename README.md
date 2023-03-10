@@ -28,9 +28,13 @@
 - 🌍 I speak Russian and English (A1 - A2)
 
 ### Languages and tools 
-<div>
+<div id="tools" style="
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+gap: 10px">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp; 
 
@@ -64,8 +68,7 @@
 </div>
 
 ### My stat 
-<div id="stat" align="center"> 	
-
+<div id="stat" align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hell-llex&theme=github_dark"/> 	
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hell-llex&theme=github_dark"/> 	
