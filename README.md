@@ -11,7 +11,7 @@
 ### About me
 - 🌱 I’m currently upgrading my skills **React**
 - 📸 I also do amateur photography
-- 📑 Know about my experiences **[CV](https://hell-llex.github.io/rsschool-cv/)**
+- 📑 Know about my experiences **[CV](https://hell-llex.github.io/My-CV/)**
 - 📬 Reach me by **[LinkedIn](https://www.linkedin.com/in/hell-llex)**, **[Email](mailto:demeshenko333@gmail.com)**
 - 🌍 I speak Russian and English (A1 - A2)
 
