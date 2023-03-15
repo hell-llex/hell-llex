@@ -39,10 +39,12 @@
 --->
 
 ### My stat 
-<div id="stat" align="center">
+
+<div id="stat" align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hell-llex&theme=github_dark" width="840"/> 	
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hell-llex&theme=github_dark" width="418"/> 	
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hell-llex&theme=github_dark" width="418"/> 
+<img src="https://www.codewars.com/users/hell-llex/badges/large" width="418" align="left"/> 
 </div>
 <!--
 **hell-llex/hell-llex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
